@@ -1,0 +1,11 @@
+C:\Users\даниил\Рабочий стол\ТГУ Курсы\Иммитационное моделирование\Лабораторные\Лаба 1\Flight_in_atmosphere\1_Flight_in_atmosphere\bin\Debug\1_Flight_in_atmosphere.exe.config
+C:\Users\даниил\Рабочий стол\ТГУ Курсы\Иммитационное моделирование\Лабораторные\Лаба 1\Flight_in_atmosphere\1_Flight_in_atmosphere\bin\Debug\1_Flight_in_atmosphere.exe
+C:\Users\даниил\Рабочий стол\ТГУ Курсы\Иммитационное моделирование\Лабораторные\Лаба 1\Flight_in_atmosphere\1_Flight_in_atmosphere\bin\Debug\1_Flight_in_atmosphere.pdb
+C:\Users\даниил\Рабочий стол\ТГУ Курсы\Иммитационное моделирование\Лабораторные\Лаба 1\Flight_in_atmosphere\1_Flight_in_atmosphere\obj\Debug\_1_Flight_in_atmosphere.Form1.resources
+C:\Users\даниил\Рабочий стол\ТГУ Курсы\Иммитационное моделирование\Лабораторные\Лаба 1\Flight_in_atmosphere\1_Flight_in_atmosphere\obj\Debug\_1_Flight_in_atmosphere.Properties.Resources.resources
+C:\Users\даниил\Рабочий стол\ТГУ Курсы\Иммитационное моделирование\Лабораторные\Лаба 1\Flight_in_atmosphere\1_Flight_in_atmosphere\obj\Debug\1_Flight_in_atmosphere.csproj.GenerateResource.cache
+C:\Users\даниил\Рабочий стол\ТГУ Курсы\Иммитационное моделирование\Лабораторные\Лаба 1\Flight_in_atmosphere\1_Flight_in_atmosphere\obj\Debug\1_Flight_in_atmosphere.csproj.CoreCompileInputs.cache
+C:\Users\даниил\Рабочий стол\ТГУ Курсы\Иммитационное моделирование\Лабораторные\Лаба 1\Flight_in_atmosphere\1_Flight_in_atmosphere\obj\Debug\1_Flight_in_atmosphere.exe
+C:\Users\даниил\Рабочий стол\ТГУ Курсы\Иммитационное моделирование\Лабораторные\Лаба 1\Flight_in_atmosphere\1_Flight_in_atmosphere\obj\Debug\1_Flight_in_atmosphere.pdb
+C:\Users\даниил\Рабочий стол\ТГУ Курсы\Иммитационное моделирование\Лабораторные\Лаба 1\Flight_in_atmosphere\1_Flight_in_atmosphere\obj\Debug\1_Flight_in_atmosphere.csproj.AssemblyReference.cache
+C:\Users\даниил\Рабочий стол\ТГУ Курсы\Иммитационное моделирование\Лабораторные\Лаба 1\Flight_in_atmosphere\1_Flight_in_atmosphere\obj\Debug\1_Flight_in_atmosphere.csproj.SuggestedBindingRedirects.cache
