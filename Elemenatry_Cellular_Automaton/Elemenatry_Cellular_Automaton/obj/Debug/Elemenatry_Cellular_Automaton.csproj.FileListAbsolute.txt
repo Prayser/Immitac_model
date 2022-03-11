@@ -1,0 +1,10 @@
+C:\Users\даниил\Рабочий стол\ТГУ Курсы\Иммитационное моделирование\Лабораторные\Лаба 3\Elemenatry_Cellular_Automaton\Elemenatry_Cellular_Automaton\bin\Debug\Elemenatry_Cellular_Automaton.exe.config
+C:\Users\даниил\Рабочий стол\ТГУ Курсы\Иммитационное моделирование\Лабораторные\Лаба 3\Elemenatry_Cellular_Automaton\Elemenatry_Cellular_Automaton\bin\Debug\Elemenatry_Cellular_Automaton.exe
+C:\Users\даниил\Рабочий стол\ТГУ Курсы\Иммитационное моделирование\Лабораторные\Лаба 3\Elemenatry_Cellular_Automaton\Elemenatry_Cellular_Automaton\bin\Debug\Elemenatry_Cellular_Automaton.pdb
+C:\Users\даниил\Рабочий стол\ТГУ Курсы\Иммитационное моделирование\Лабораторные\Лаба 3\Elemenatry_Cellular_Automaton\Elemenatry_Cellular_Automaton\obj\Debug\Elemenatry_Cellular_Automaton.csproj.AssemblyReference.cache
+C:\Users\даниил\Рабочий стол\ТГУ Курсы\Иммитационное моделирование\Лабораторные\Лаба 3\Elemenatry_Cellular_Automaton\Elemenatry_Cellular_Automaton\obj\Debug\Elemenatry_Cellular_Automaton.Form1.resources
+C:\Users\даниил\Рабочий стол\ТГУ Курсы\Иммитационное моделирование\Лабораторные\Лаба 3\Elemenatry_Cellular_Automaton\Elemenatry_Cellular_Automaton\obj\Debug\Elemenatry_Cellular_Automaton.Properties.Resources.resources
+C:\Users\даниил\Рабочий стол\ТГУ Курсы\Иммитационное моделирование\Лабораторные\Лаба 3\Elemenatry_Cellular_Automaton\Elemenatry_Cellular_Automaton\obj\Debug\Elemenatry_Cellular_Automaton.csproj.GenerateResource.cache
+C:\Users\даниил\Рабочий стол\ТГУ Курсы\Иммитационное моделирование\Лабораторные\Лаба 3\Elemenatry_Cellular_Automaton\Elemenatry_Cellular_Automaton\obj\Debug\Elemenatry_Cellular_Automaton.csproj.CoreCompileInputs.cache
+C:\Users\даниил\Рабочий стол\ТГУ Курсы\Иммитационное моделирование\Лабораторные\Лаба 3\Elemenatry_Cellular_Automaton\Elemenatry_Cellular_Automaton\obj\Debug\Elemenatry_Cellular_Automaton.exe
+C:\Users\даниил\Рабочий стол\ТГУ Курсы\Иммитационное моделирование\Лабораторные\Лаба 3\Elemenatry_Cellular_Automaton\Elemenatry_Cellular_Automaton\obj\Debug\Elemenatry_Cellular_Automaton.pdb
